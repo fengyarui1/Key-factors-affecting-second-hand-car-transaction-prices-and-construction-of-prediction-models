@@ -2,7 +2,7 @@
 
 包含了项目报告和演讲稿，都是对项目最基本内容的归纳。
 
-源代码大家可以自行安装Juper Notebook调试运行。
+源代码大家可以自行安装Jupyter Notebook调试运行。
 
 比赛地址：https://tianchi.aliyun.com/competition/coupleList
 
